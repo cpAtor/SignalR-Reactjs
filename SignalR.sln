@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR", "SignalR\SignalR.csproj", "{7D19B7A2-F733-439A-8300-466AE0495E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactSignalR", "ReactSignalR\ReactSignalR.csproj", "{6F394409-BAB1-4ACB-8561-EA9540A09472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D19B7A2-F733-439A-8300-466AE0495E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D19B7A2-F733-439A-8300-466AE0495E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D19B7A2-F733-439A-8300-466AE0495E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D19B7A2-F733-439A-8300-466AE0495E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F394409-BAB1-4ACB-8561-EA9540A09472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F394409-BAB1-4ACB-8561-EA9540A09472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F394409-BAB1-4ACB-8561-EA9540A09472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F394409-BAB1-4ACB-8561-EA9540A09472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95801C64-7D42-4E97-B0B7-BCA52125C736}
+	EndGlobalSection
+EndGlobal
